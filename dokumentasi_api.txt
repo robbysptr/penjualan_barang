@@ -1,0 +1,16 @@
+Penggunaan API
+
+Mencari data Jenis berdasarkan id
+- Request URL: http://localhost/penjualan_barang2/api/jenis
+- Parameter:
+    => id (merupakan id dari datanya)
+
+Mencari data Barang berdasarkan id
+- Request URL: http://localhost/penjualan_barang2/api/barang
+- Parameter:
+    => id (merupakan id dari datanya)
+
+Mencari data User berdasarkan id
+- Request URL: http://localhost/penjualan_barang2/api/user
+- Parameter:
+    => id (merupakan id dari datanya)
